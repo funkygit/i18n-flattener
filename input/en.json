@@ -1,0 +1,12 @@
+{
+    "home": {
+      "title": "Welcome",
+      "subtitle": "This is the homepage"
+    },
+    "user": {
+      "login": {
+        "button": "Log in"
+      }
+    }
+  }
+  
